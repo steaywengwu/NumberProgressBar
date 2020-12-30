@@ -1,6 +1,6 @@
 ## Android NumberProgressBar [![Build Status](https://travis-ci.org/daimajia/NumberProgressBar.png?branch=master)](https://travis-ci.org/daimajia/NumberProgressBar)
 
-[![Insight.io](https://insight.io/repoBadge/github.com/daimajia/NumberProgressBar)](https://insight.io/github.com/daimajia/NumberProgressBar)
+[![Insight.io](https://img-blog.csdn.net/20150505104344778)](https://img-blog.csdn.net/20150505104344778)
 -----
 
 The NumberProgressBar is a bar, slim and sexy (every man wants! ). 
