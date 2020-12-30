@@ -1,23 +1,11 @@
-## Android NumberProgressBar [![Build Status](https://travis-ci.org/daimajia/NumberProgressBar.png?branch=master)](https://travis-ci.org/daimajia/NumberProgressBar)
+## Android NumberProgressBar 
+### 水平数字进度条，效果图片参考地址https://img-blog.csdn.net/20150505104344778.jpg
 
-[![Insight.io](https://img-blog.csdn.net/20150505104344778)](https://img-blog.csdn.net/20150505104344778)
------
-
-The NumberProgressBar is a bar, slim and sexy (every man wants! ). 
-
-I decided to do this because I was really tired of android original progress bar. So, I made some change, added more color style for this.
-
-And also you can contribute more color style, or new idea to me.
-
-BTW. My friends also made some other platform's NumberProgressBar：
-
-- [Web-Front](https://github.com/kalasoo/NumberProgressBar) by [kalasoo](https://github.com/kalasoo/NumberProgressBar)
-- [iOS](https://github.com/Ming-Zhe/NumberProgressBar) by [Ming-Zhe](https://github.com/Ming-Zhe/NumberProgressBar)
-- [Windows Phone](https://github.com/s2003zy/NumberProgressBar) by [s2003zy](https://github.com/s2003zy)
-
----
+![NumberProgressBar](https://img-blog.csdn.net/20150505104344778.jpg)
 
 ### Demo
+### 效果点开看图 http://ww3.sinaimg.cn/mw690/610dc034jw1efyrd8n7i7g20cz02mq5f.gif
+### 点开看图 http://ww1.sinaimg.cn/mw690/610dc034jw1efyslmn5itj20f30k074r.jpg
 
 ![NumberProgressBar](http://ww3.sinaimg.cn/mw690/610dc034jw1efyrd8n7i7g20cz02mq5f.gif)
 
@@ -59,9 +47,7 @@ Use it in your own code:
 
 I made some predesign style. You can use them via `style` property.
 
-
-![Preset color](http://ww1.sinaimg.cn/mw690/610dc034jw1efyslmn5itj20f30k074r.jpg)
-
+### 点开看图http://ww1.sinaimg.cn/mw690/610dc034jw1efyslmn5itj20f30k074r.jpg
 Use the preset style just like below:
 
 ```java
